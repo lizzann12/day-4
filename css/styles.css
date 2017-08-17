@@ -1,0 +1,14 @@
+/* ------Nav bar starts--------*/
+.nav-pills {
+  background-color: #00bfff;
+  height: 200px;
+}
+.row {
+  border: 2px solid #000;
+  background-color: #9966cc;
+}
+/*-----Hero section starts-----*/
+.jumbotron {
+  background-color: #db7093;
+  text-align: center;
+}
