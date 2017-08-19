@@ -1,14 +1,43 @@
-/* ------Nav bar starts--------*/
-.nav-pills {
-  background-color: #00bfff;
-  height: 200px;
-}
 .row {
-  border: 2px solid #000;
-  background-color: #9966cc;
+  padding: 20px 0;
 }
-/*-----Hero section starts-----*/
-.jumbotron {
-  background-color: #db7093;
-  text-align: center;
+.box {
+  height: 50px;
+  background-color: #000;
+  margin-top: 20px;
+}
+.box2 {
+  height: 20px;
+  background-color: #000;
+  margin-top: 20px;
+  padding: 0 5px;
+}
+.second {
+  height: 300px;
+  background-color: #000;
+  margin-bottom: 20px;
+}
+.third {
+  height: 40px;
+  background-color: #000;
+  margin-bottom: 20px;
+}
+.forth {
+  height:100px;
+  background-color: #000;
+  margin-bottom: 20px;
+
+}
+.forth4 {
+  height: 100px;
+  background-color: #000;
+  margin-bottom: 20px;
+}
+.fifth {
+  height: 100px;
+  background-color: #000;
+}
+.fifth5 {
+  height: 100px;
+  background-color: #000;
 }
